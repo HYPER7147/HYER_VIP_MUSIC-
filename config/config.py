@@ -74,7 +74,7 @@ LOG_GROUP_ID = getenv("LOG_GROUP_ID", "")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "1808943146").split())
+    map(int, getenv("OWNER_ID", "7748891643").split())
 )  # Input type must be interger
 
 
@@ -116,15 +116,15 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/VIP_CREATORS"
-)  # Example:- https://t.me/VIP_CREATORS
+    "SUPPORT_CHANNEL", "https://t.me/Feeling_smiley"
+)  # Example:- https://t.me/Feeling_smiley
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/TG_FRIENDSS"
-)  # Example:- https://t.me/TG_FRIENDSS
+    "SUPPORT_GROUP", "https://t.me/Friendship_Club_Group"
+)  # Example:- https://t.me/Feeling_smiley
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/TG_FRIENDSS"
-)  # Example:- https://t.me/TG_FRIENDSS
+    "SUPPORT_GROUP", "https://t.me/Friendship_Club_Group"
+)  # Example:- https://t.me/Feeling_smiley
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
 
@@ -219,67 +219,67 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+    "https://graph.org/file/aecb21acff395f3bbe3be-e2f5ab9d2f290467e6.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/91533956c91d0fd7c9f20.jpg",
+    "https://graph.org/file/b760b2cbdaf36c0fe41ac-ce896f67b29189ef45.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/f4edfbd83ec3150284aae.jpg",
+    "https://graph.org/file/5baa93ca17d71a44fdfe3-607dd84a997de6e579.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://telegra.ph/file/de1db74efac1770b1e8e9.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/4dd9e2c231eaf7c290404.jpg",
+    "https://graph.org/file/aecb21acff395f3bbe3be-e2f5ab9d2f290467e6.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://telegra.ph/file/8234d704952738ebcda7f.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://telegra.ph/file/8d02ff3bde400e465219a.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://telegra.ph/file/e24f4a5f695ec5576a8f3.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://telegra.ph/file/7645d1e04021323c21db9.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://telegra.ph/file/76d29aa31c40a7f026d7e.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://telegra.ph/file/b7758d4e1bc32aa9fb6ec.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://telegra.ph/file/60ed85638e00df10985db.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/f4edfbd83ec3150284aae.jpg",
+    "https://graph.org/file/6d77321d3ddfd3e81275c-dde2dbf8558531e234.jpg",
 )
 
 
